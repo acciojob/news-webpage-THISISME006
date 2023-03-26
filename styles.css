@@ -53,13 +53,16 @@ body > h1{
 	padding:10px;
 }
 .three{
+	border-radius:15px;
 	padding-left:90px;
 	direction:flex;
 	flex-direction:column;
-	width:400px;
+	width:300px;
 	height:400px;
 	background-color:white
-/* 	bordr-radius:15px; */
+}
+.three > h2{
+padding-left:25px;
 }
 .three > img{
 	
